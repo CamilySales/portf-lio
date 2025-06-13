@@ -103,6 +103,8 @@ body {
 
 .apresentacao__imagem{
     width: 50%;
+    border: 5px solid purple;
+    border-radius: 17px;
 }
 .rodape{
     padding: 2%;
